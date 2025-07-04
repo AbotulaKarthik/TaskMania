@@ -1,41 +1,67 @@
 # 🚀 TaskMania – Productivity Reimagined
 
-TaskMania is a sleek, cross-platform task management app built with React Native. It helps you organize your daily life, track progress, and stay focused — all in a minimal and intuitive interface.
+**TaskMania** is a sleek, cross-platform task management app built with **React Native**. It helps you organize your daily life, track progress, and stay focused — all in a minimal and intuitive interface.
 
+---
 
 ## ✨ Features
 
-- 📝 Create, edit & delete tasks effortlessly
-- 📅 Prioritize tasks with categories & due dates
-- ⏰ Smart reminders (coming soon!)
-- 🎨 Beautiful UI with vector icons & custom themes
-- ⚡ Offline support & smooth animations
+- 📝 Create, delete, and complete tasks effortlessly  
+- 📅 Prioritize tasks with categories & due dates  
+- ⏰ Smart reminders *(coming soon!)*  
+- 🎨 Beautiful UI with vector icons & custom themes  
+- ⚡ Offline support & smooth animations  
+
+---
+
+## 🖐️ Intuitive Gesture Support
+
+TaskMania embraces modern gesture controls for a fluid experience:
+
+- 👉 **Swipe to Complete/Delete**  
+  Easily swipe on tasks to mark as done or remove them.
+  - Swipe on the right of the task to Delete
+  - Swipe on the left of the task to Complete
+
+- 🔄 **Smooth Drag & Drop** *(coming soon)*  
+  Reorder tasks with planned drag-and-drop support.
 
 ---
 
 ## 📱 Built With
 
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React Navigation](https://reactnavigation.org/)
-- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
-- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/)
+- ⚛️ React Native
+- 🧭 React Navigation
+- 🎨 React Native Vector Icons
+- 💾 AsyncStorage
+- 🤌 React Native Gesture Handler
+- 🌀 Reanimated
 
 ---
 
-🖐️ Gesture Support
-TaskMania embraces intuitive gesture controls for a fluid and modern user experience:
+## 📦 Download APK
 
-👉 Swipe to Complete/Delete
-Easily swipe left or right on tasks to mark them as done or remove them from your list.
+👉 [**Download TaskMania v1.0.0**](https://github.com/AbotulaKarthik/TaskMania/releases/download/v1.0.0/TaskMania-v1.0.0.apk)
 
-✋ Long Press for Options
-Long-press a task to access additional actions like edit, move, or reschedule.
+> 📁 APK size: ~80 MB  
+> 📌 Compatible with most Android devices running Android 6.0 (API 23) and above.
 
-🧭 Pull to Refresh
-Scroll to the top and pull down to instantly refresh your task list.
+---
 
-🔄 Smooth Drag & Drop (coming soon)
-Reorder your tasks with drag-and-drop (planned for future releases).
+## 📸 Screenshots --------
 
-⚙️ Powered by React Native Gesture Handler and Reanimated
+![homeEmpty](https://github.com/user-attachments/assets/6476645c-c5f2-4ff8-ba28-9f1082f35f22)
+![home](https://github.com/user-attachments/assets/a02d54a1-d6f5-4971-8f79-466e671f9a2f)
+![Addtask](https://github.com/user-attachments/assets/caa268be-2dcb-4407-ae48-8079e269a619)
+![completed](https://github.com/user-attachments/assets/3d1589ca-1600-4d3d-b1d8-f08468be1b29)
+![Incompletes](https://github.com/user-attachments/assets/2aa5f43b-7a0a-4b4c-a3a1-e818a6354047)
+
+---
+
+## 🛠️ Getting Started
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd TaskMania
+npm install
+npx react-native run-android
