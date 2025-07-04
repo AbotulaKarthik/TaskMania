@@ -53,6 +53,8 @@ TaskMania embraces modern gesture controls for a fluid experience:
 ![homeEmpty](https://github.com/user-attachments/assets/6476645c-c5f2-4ff8-ba28-9f1082f35f22)
 ![home](https://github.com/user-attachments/assets/a02d54a1-d6f5-4971-8f79-466e671f9a2f)
 ![Addtask](https://github.com/user-attachments/assets/caa268be-2dcb-4407-ae48-8079e269a619)
+![deleteTask](https://github.com/user-attachments/assets/3a1f6284-d7f8-4cd6-bdb1-a620d30be885)
+![completeTask](https://github.com/user-attachments/assets/2557366f-32cd-4540-92d2-fa60ec446371)
 ![completed](https://github.com/user-attachments/assets/3d1589ca-1600-4d3d-b1d8-f08468be1b29)
 ![Incompletes](https://github.com/user-attachments/assets/2aa5f43b-7a0a-4b4c-a3a1-e818a6354047)
 
