@@ -2,9 +2,6 @@
 
 TaskMania is a sleek, cross-platform task management app built with React Native. It helps you organize your daily life, track progress, and stay focused — all in a minimal and intuitive interface.
 
-![TaskMania Screenshot](./assets/screenshots/preview.png) <!-- Optional: Replace with your app screenshot -->
-
----
 
 ## ✨ Features
 
