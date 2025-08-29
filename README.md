@@ -41,7 +41,7 @@ TaskMania embraces modern gesture controls for a fluid experience:
 
 ## 📦 Download APK
 
-👉 [**Download TaskMania v1.0.0**](https://github.com/AbotulaKarthik/TaskMania/releases/download/v1.0.0/TaskMania-v1.0.0.apk)
+👉 [**Download TaskMania v1.0.0**](https://github.com/AbotulaKarthik/TaskMania/releases/download/v1.0.0/app-release.apk)
 
 > 📁 APK size: ~80 MB  
 > 📌 Compatible with most Android devices running Android 6.0 (API 23) and above.
